@@ -1,6 +1,6 @@
 # 🏠 Homelab Projects
 
-Collection of my network engineering and sysadmin work.
+Collection of my network engineering and sysadmin work. Will be updated continually
 
 ## 🔧 Projects
 
